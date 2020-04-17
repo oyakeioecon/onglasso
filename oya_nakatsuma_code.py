@@ -1,11 +1,7 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+ # -*- coding: utf-8 -*-
 """
-Sakae Oya and Teruo Nakatsuma, January 2020  
-
-An Efficient Gibbs Sampling Algorithm for Bayesian Graphical LASSO Models with 
-the Positive Definite Constraint on the Precision Matrix
-
+Sakae Oya and Teruo Nakatsuma, 2020  
 Please run this file and input simulation conditions.
 """
 
